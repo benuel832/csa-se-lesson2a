@@ -25,6 +25,7 @@ Either as you go or after you are done writing your program, answer the followin
 **What did Copilot do well as the navigator?**
 
 Write your response here!
+copilot helped me step by step wrote 
 
 **What did Copilot struggle with as the navigator?**
 
